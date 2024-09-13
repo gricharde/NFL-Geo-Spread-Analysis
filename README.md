@@ -5,7 +5,7 @@ This repository contains Jupyter Notebooks from Achievement 6: Advanced Analytic
 This dataset NFL Geo Spread Analysis was originally collected from the GitHub community called nflverse using ProFootballReference data for analysis. To summarize; the data contains team name, scores, temperature, wind, stadium name, spread, and over & unders.
 
 ### Jupyter Notebooks
-This repository contains Jupyter noteboos used in the Data Analysis exercises in chapter 6
+This repository contains Jupyter notebooks used in the Data Analysis exercises in chapter 6
 
 Exercises includes the following activities:
 
@@ -33,7 +33,6 @@ Exercises includes the following activities:
 -Subsetting, wrangling, and cleaning time-series data
 -Time series analysis: decomposition 
 -Testing for stationarity 
--Stationarizing the Federal Reserve Economic Data
 
 Link to Data Visualization: 
 https://public.tableau.com/app/profile/gavin.ellis/viz/nfl_geo_spread_analysis/NFLSportsBettingAnalysis?publish=yes
