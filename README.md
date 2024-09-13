@@ -34,11 +34,11 @@ Exercises includes the following activities:
 -Time series analysis: decomposition 
 -Testing for stationarity 
 
-Link to Data Visualization: 
+##### Link to Data Visualization: 
 https://public.tableau.com/app/profile/gavin.ellis/viz/nfl_geo_spread_analysis/NFLSportsBettingAnalysis?publish=yes
 
-Portafolio
+##### Portafolio
 PDF File contains the Portafolio
 
-Sourcing Open Data
+##### Sourcing Open Data
 Please Read PDF file "Geospatial Analysis of NFL Game Outcomes and Environmental Factors"
