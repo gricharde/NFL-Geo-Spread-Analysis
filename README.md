@@ -10,29 +10,29 @@ This repository contains Jupyter notebooks used in the Data Analysis exercises i
 Exercises includes the following activities:
 
 ##### Data cleaning:
--Handling missing Values
--Removing Duplicates
--Datatype Issues
+- Handling missing Values 
+- Removing Duplicates
+- Datatype Issues
 
 ##### Correlation Charts:
--Correlation Matrix
+- Correlation Matrix
 
 ##### Geographic Visualization:
--Data wrangling
--Data cleaning 
--Ploting and Choropleth
+- Data wrangling
+- Data cleaning 
+- Ploting and Choropleth
 
-##### Regression:
--Regression with differents variables
+##### Regression: 
+- Regression with differents variables
 
 ##### Machine Learning Part 2:
--The elbow technique
--k-means clustering
+- The elbow technique
+- k-means clustering
 
 ##### Sourcing & Analyzing Time-Series Data:
--Subsetting, wrangling, and cleaning time-series data
--Time series analysis: decomposition 
--Testing for stationarity 
+- Subsetting, wrangling, and cleaning time-series data
+- Time series analysis: decomposition 
+- Testing for stationarity 
 
 ##### Link to Data Visualization: 
 https://public.tableau.com/app/profile/gavin.ellis/viz/nfl_geo_spread_analysis/NFLSportsBettingAnalysis?publish=yes
